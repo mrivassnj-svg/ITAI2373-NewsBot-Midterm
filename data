@@ -1,8 +1,11 @@
-To access the kaggle dataset mentioned in the read me and in conjunction with kaggle's public access permission the source set 
-is located at:
+To access the kaggle dataset mentioned in the read me and in conjunction with kaggle's public access 
+permission the source set is located at:
+
 ## https://www.kaggle.com/datasets/gpreda/bbc-news
+
 In order to gain access to Datasets: BBC News Train, BBC News Test, and BBC News Sample Solution, which
-are prime key files to main NewsBot functions you must download these three csv files
+are prime key files to main NewsBot functions you must download these three csv files and implement them 
+to run programatically.
 
 ---
 #Alternatively

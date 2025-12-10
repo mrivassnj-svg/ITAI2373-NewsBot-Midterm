@@ -1,1 +1,15 @@
 
+### **2️⃣ `requirements.txt`**
+
+This file contains the list of dependencies required to run your project.
+
+```txt
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+nltk
+spacy
+textblob
+

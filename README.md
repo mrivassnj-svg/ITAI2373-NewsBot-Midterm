@@ -28,8 +28,8 @@ The dataset used for this project is the News Category Dataset from Kaggle, whic
 
 - Clear, labeled text content for NLP tasks
 
-You can access the dataset here:
-## https://www.kaggle.com/datasets/gpreda/bbc-news
+You can access the dataset in the main folder section labeled 'data'
+
 #
 - Dataset Details: Self updating dataset. It collects RSS Feeds from BBC News using a Kernel: https://www.kaggle.com/gpreda/bbc-news-rss-feeds. The Kernel is run with a fixed frequency and the dataset is updated using the output of the Notebook.
 

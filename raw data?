@@ -11,6 +11,11 @@ to run programatically.
 #Alternatively
 ---
 I have provided the following links to the public files for manual downloading and uploading on the google Colab environment: 
-#BBC News Train- https://drive.google.com/file/d/1-Qo0EE6nmk0WntkXP98L84j0WY5OKX52
-#BBC News Test- https://drive.google.com/file/d/1WMFJHurdxHvs5zVVB8MtmvLV8TAyMA59 
-#BBC News Sample Solution- https://drive.google.com/file/d/1hKAbEMR9Bv2OTb0M-rkPweUKT_nk75VM
+1. 'BBC News Train.csv' 
+Manually download at: https://drive.google.com/file/d/1-Qo0EE6nmk0WntkXP98L84j0WY5OKX52
+
+2. 'BBC News Test.csv'  
+Manually download at: https://drive.google.com/file/d/1WMFJHurdxHvs5zVVB8MtmvLV8TAyMA59
+
+3. 'BBC News Sample Solution'
+Manually download at: https://drive.google.com/file/d/1hKAbEMR9Bv2OTb0M-rkPweUKT_nk75VM
